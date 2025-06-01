@@ -1,3 +1,20 @@
+# TikTokTTS
+This Mod Replaces the original TTS with the one from TikTok
+
+to get your tiktok session id login to TikTok on PC
+press ctrl+shift+i
+goto network tab 
+look for
+![image](https://github.com/user-attachments/assets/5f5cc200-6587-43b9-8e5b-1eb1d8c33cc4)
+should be at the top
+find this
+![image](https://github.com/user-attachments/assets/bd5224a3-0156-4207-981c-ea9299e796b0)
+find session-id=
+![image](https://github.com/user-attachments/assets/9868df29-3f6b-4bde-b9e4-53e444adb1b0)
+copy the full part up until the semicolon ";"
+
+[VOICES]
+
 en_male_jomboy<br>
 en_us_002
 es_mx_002<br>
